@@ -1,1 +1,1 @@
-Recuerde guardar todo antes de ejecutar el programa
+This program has to be run with admin privileges, this version only works for Windows OS
